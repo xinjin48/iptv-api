@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-09 18:39:56,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-11 18:58:21,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -39,10 +39,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -72,16 +72,13 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-七龙珠,https://live.metshop.top/huya/11601966$订阅源
 七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
-七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
-中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
-中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
-猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
 
 🎵音乐频道,#genre#
